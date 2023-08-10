@@ -1,9 +1,9 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 
 const NewPlayerForm = () => {
   return (
     <div>
-      <h1>Puppies</h1>
+      <h1>New Player</h1>
     </div>
   );
 };
